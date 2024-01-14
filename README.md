@@ -1,9 +1,15 @@
-👋 Hey there! I'm Ashen Neth, a undergraduate student at Edith Cowan University passionate about coding and hailing from the beautiful island of Sri Lanka 🇱🇰. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=32&pause=1000&color=F7F7F7&center=false&random=false&width=435&lines=I+am+Ashen+Neth+Vikum;An+Undergraduate+Software+Engineer)](https://git.io/typing-svg)
+
+
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/zaftzaft/terminal-anime/master/demo.gif">
+
+An undergraduate student at Edith Cowan University passionate about coding and hailing from the beautiful island of Sri Lanka 🇱🇰. 
                     Currently diving into the world of Python 🐍 and Java ☕ to build exciting projects and expand my programming horizons. 
                                           Always eager to learn and collaborate, let's code something awesome together!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blueshift283" alt="blueshift283" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/zaftzaft/terminal-anime/master/demo.gif">
+
 <p align="left"> <a href="https://twitter.com/ibetrippindaily" target="blank"><img src="https://img.shields.io/twitter/follow/ibetrippindaily?logo=twitter&style=for-the-badge" alt="ibetrippindaily" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
